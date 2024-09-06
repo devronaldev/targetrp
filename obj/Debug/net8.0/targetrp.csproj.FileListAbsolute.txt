@@ -1,0 +1,14 @@
+C:\dev\targetrp\bin\Debug\net8.0\targetrp.exe
+C:\dev\targetrp\bin\Debug\net8.0\targetrp.deps.json
+C:\dev\targetrp\bin\Debug\net8.0\targetrp.runtimeconfig.json
+C:\dev\targetrp\bin\Debug\net8.0\targetrp.dll
+C:\dev\targetrp\bin\Debug\net8.0\targetrp.pdb
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.AssemblyInfoInputs.cache
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.AssemblyInfo.cs
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.csproj.CoreCompileInputs.cache
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.dll
+C:\dev\targetrp\obj\Debug\net8.0\refint\targetrp.dll
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.pdb
+C:\dev\targetrp\obj\Debug\net8.0\targetrp.genruntimeconfig.cache
+C:\dev\targetrp\obj\Debug\net8.0\ref\targetrp.dll
